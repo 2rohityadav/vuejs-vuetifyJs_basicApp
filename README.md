@@ -4,7 +4,7 @@
 
 npm install vuetify
 
-## Use
+# Use
 
 import Vue from 'vue'
 
