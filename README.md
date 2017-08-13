@@ -14,11 +14,11 @@ Vue.use(Vuetify)
 
 > For including styles, you can either place the below styles in your index.html
 
-<link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
 
 > And for css you can import in entry file 
 
-import 'vuetify/dist/vuetify.min.css'
+    import 'vuetify/dist/vuetify.min.css'
 
 ## Build Setup
 
